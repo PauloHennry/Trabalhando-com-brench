@@ -10,7 +10,7 @@
     
   2- feito o seguinte podemos criar a branch com o seguinte comando:
   
-    git checkout "modificando a navbar do home"
+    git checkout modificando a navbar do home
     
   feito o seguinte teremos uma nova branch me nossa arvoré.
   
