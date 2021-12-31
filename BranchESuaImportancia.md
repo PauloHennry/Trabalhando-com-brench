@@ -49,7 +49,24 @@
  
   Feito o nosso trabalho de fazer todas as, modificações e vendo que não há mais bugs, ou erros, ou modifições que ainda precisan ser feitas ou alteradas. podemos unir este arquivo da branch que criamos, para nossa main, onde esta todo nosso projeto principal.
   
-Para fazermos tudo isto basta apenas inserirmos os seguinte comando:
+Para fazermos primeiro temos que ir para a branch main, onde estão todos os nossos arquivos principais:
 
+Feito o seguinte podemos adicionar o seguinte comando:
+
+    git merge modificando-a-navbar-do-home
+    
+então vamos ver algumas informações em nosso terminal, lembrando que o git merge ele vai unir o seu branch ao main atual que está trabalhando.
+
+Sempre antes de fazer o git merge certifique-se de que esta dentro de main ou master se for seu branch principal.
+
+feito isto podemos dar um git status para ver se nossa arvore vai esta vazia, sendo feito isto terminamos com o seguinte comando:
+
+    git push origin master
+    
+Para empurrarmos alguma modificação se ainda caso vier a ter, agora se pode ir ao Github e verificar em seu main e ver se seu arquivo que estava em outra branch esta na branch principal.
+
+
+
+Considerações Este aquivo exrivi para cosolidar os conceitos de algumas coisas que aprendi hoje sobre o git branch, se houver algo que possa ser alterado fiquem avontade, e muito obrigado a todos.
   
   
