@@ -37,4 +37,19 @@
   
     git commit -m "adicinando alteraçãoes ao navbar"
     
+  Com nosso arquivo ja subido pelo nosso versionamento agora vamos empurralo para o nosso amigo Github, para podermos visualizar e fazemos isto com o seguinte comando.
+  
+    git push modificando-a-navbar-do-home
+    
+ 
+ Com este seguinte comando fechamos nossa alteração e enviamos nossas modificações para o github então voce ja pode ir la ver.
+ 
+ 4 - fazendo a união de nossa branch com a nossa main:
+ 
+ 
+  Feito o nosso trabalho de fazer todas as, modificações e vendo que não há mais bugs, ou erros, ou modifições que ainda precisan ser feitas ou alteradas. podemos unir este arquivo da branch que criamos, para nossa main, onde esta todo nosso projeto principal.
+  
+Para fazermos tudo isto basta apenas inserirmos os seguinte comando:
+
+  
   
