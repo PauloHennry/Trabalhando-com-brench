@@ -12,6 +12,6 @@
   
     git checkout modificando-a-navbar-do-home
     
-  feito o seguinte teremos uma nova branch me nossa arvoré.
+  feito o seguinte teremos uma nova branch na nossa arvore.
   
   3- Feito o seguinte podemos ja visualizar em nossa caminho
